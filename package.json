@@ -1,0 +1,24 @@
+{
+  "name": "web",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "scripts": "NODE_NO_WARNINGS=1 DOTENV_CONFIG_PATH=.env.development ts-node"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "jsdom": "^24.1.0",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "yaml": "^2.4.5"
+  }
+}

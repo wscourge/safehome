@@ -1,0 +1,22 @@
+category: air-conditioners
+slug: aqara空调伴侣-p-3
+name: Aqara空调伴侣 P3
+official_url: ""
+amazon:
+  url: ""
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: true
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""
