@@ -1,9 +1,9 @@
 category: sensors
 slug: fibaro-motion-sensor
 name: Fibaro Motion Sensor
-official_url: ""
+official_url: "https://www.fibaro.com/products/motion-sensor/"
 amazon:
-  url: ""
+  url: "https://www.amazon.com/Motion-Multisensor-Movement-Temperature-Intensity-Accelerometer/dp/B01KOGDETI"
   price: 0
   rating_average: 0
   rating_amount: 0

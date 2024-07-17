@@ -1,9 +1,9 @@
 category: speakers
 slug: cyrus-one-cast
 name: Cyrus ONE Cast
-official_url: ""
+official_url: "https://www.cyrusaudio.com/products/one-cast-streamer/"
 amazon:
-  url: ""
+  url: "https://www.amazon.de/-/en/3E-C1C3E-B-Cyrus-One-Cast-black/dp/B07ZFV12C4"
   price: 0
   rating_average: 0
   rating_amount: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.audioimpact.it/en/integrated-amplifiers/5677-cyrus-one-cast.html"
 pros: []
 cons: []
 excerpt: ""

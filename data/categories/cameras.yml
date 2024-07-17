@@ -3,4 +3,54 @@ name: Cameras
 long_name: Cameras
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Video Resolution
+    type: float
+    unit: pixels
+  - name: Frame Rate
+    type: float
+    unit: frames per second
+  - name: Field of View
+    type: float
+    unit: degrees
+  - name: Night Vision
+    type: boolean
+  - name: Wireless
+    type: boolean 
+  - name: Cloud Storage
+    type: boolean
+  - name: Voice Assistance
+    type: boolean
+  - name: Motion Sensitivity
+    type: single
+    values:
+      - Low
+      - Medium
+      - High
+  - name: Intelligent Alerts
+    type: boolean
+  - name: Audio Quality
+    type: float
+    unit: Hertz
+  - name: Weather Resistance
+    type: single
+    values:
+      - Low
+      - Medium
+      - High
+  - name: Facial Recognition
+    type: boolean 
+  - name: Remote Control
+    type: boolean
+  - name: Encryption Level
+    type: single
+    values: 
+      - Low
+      - Medium
+      - High
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram

@@ -3,4 +3,53 @@ name: Speakers
 long_name: AirPlay-Enabled Speakers
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Support for Voice Assistants
+    type: boolean
+  - name: Smart Home Connectivity
+    type: boolean
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Energy Efficiency
+    type: float
+    unit: watt
+  - name: Wi-Fi Connectivity 
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Auxiliary Input
+    type: boolean
+  - name: Multi-Room Audio
+    type: boolean
+  - name: Mobile App
+    type: boolean
+  - name: Built-in Hub
+    type: boolean
+  - name: Battery Life
+    type: float
+    unit: hour
+  - name: Frequency Response
+    type: float
+    unit: hertz
+  - name: Total Harmonic Distortion
+    type: float
+    unit: percent
+  - name: Signal-to-Noise Ratio (SNR)
+    type: float
+    unit: decibel
+  - name: Sensitivity
+    type: float
+    unit: decibels per watt per meter
+  - name: Output Power
+    type: float
+    unit: watt
+  - name: Impendance
+    type: float
+    unit: ohm
+  - name: Dynamic Range
+    type: float
+    unit: decibel

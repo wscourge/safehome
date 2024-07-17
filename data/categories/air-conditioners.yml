@@ -3,4 +3,38 @@ name: Air Conditioners
 long_name: Air Conditioners and Heaters
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria:
+  - name: Energy Efficiency Ratio
+    type: float
+    unit: watt
+  - name: Cooling Capacity
+    type: float
+    unit: kilowatt
+  - name: Noise Level
+    type: float
+    unit: decibel
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Installation Cost
+    type: money
+  - name: Maintenance Cost
+    type: money
+  - name: Thermostat
+    type: boolean
+  - name: Dehumidifier
+    type: boolean
+  - name: Overheat Protection
+    type: boolean
+  - name: Fuel Type
+    type: multiple
+    values:
+      - electricity
+      - natural gas
+      - propane
+      - oil
+  - name: Is heater
+    type: boolean

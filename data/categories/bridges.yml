@@ -3,4 +3,47 @@ name: Bridges
 long_name: Bridges
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria:
+  - name: Voice Assistant Integration
+    type: boolean
+  - name: Guided Setup
+    type: boolean
+  - name: Range of Supported Protocols
+    type: multiple
+    values:
+      - Narrow
+      - Medium
+      - Wide
+  - name: Remote Access
+    type: boolean
+  - name: Scheduling
+    type: boolean
+  - name: Latency
+    type: float
+    unit: milliseconds
+  - name: Network Bandwidth
+    type: float
+    unit: megabits per second
+  - name: Encryption Level
+    type: single
+    values: 
+      - Low
+      - Medium
+      - High
+  - name: Firmware Updates
+    type: boolean
+  - name: Number of Devices
+    type: number 
+  - name: Power Options
+    type: multiple
+    values: 
+      - AC
+      - Battery Backup
+  - name: Additional Subscription Fees
+    type: boolean
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm

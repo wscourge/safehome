@@ -3,7 +3,7 @@ slug: cygnett-wi-fi-plug-with-power-monitoring
 name: Cygnett Wi-Fi Plug with Power Monitoring
 official_url: ""
 amazon:
-  url: ""
+  url: "https://www.amazon.com.au/Cygnett-Smart-Wi-Fi-Power-Monitoring/dp/B084SQ6N9N"
   price: 0
   rating_average: 0
   rating_amount: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.domotic.com.au/product-page/cygnett-smart-wi-fi-plug-with-power-monitoring"
 pros: []
 cons: []
 excerpt: ""

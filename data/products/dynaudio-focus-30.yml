@@ -1,7 +1,7 @@
 category: speakers
 slug: dynaudio-focus-30
 name: Dynaudio Focus 30
-official_url: ""
+official_url: "https://dynaudio.com/home-audio/focus/focus-30"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.lydspecialisten.eu/products/dynaudio-focus-30"
 pros: []
 cons: []
 excerpt: ""

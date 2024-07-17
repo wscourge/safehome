@@ -1,7 +1,7 @@
 category: speakers
 slug: cotodama-lyric-speaker-box
 name: COTODAMA Lyric Speaker Box
-official_url: ""
+official_url: "https://cotodama-speaker.com/en_us/lsb-2"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.ssense.com/en-us/everything-else/product/cotodama/silver-lyric-box-speaker/11685671"
 pros: []
 cons: []
 excerpt: ""

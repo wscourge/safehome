@@ -1,7 +1,7 @@
 category: t-vs
 slug: f-falcon-roku-tv
 name: FFalcon Roku TV
-official_url: ""
+official_url: "https://ffalcon.com.au/products/40-rs52-series-full-hd-roku-tv/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://dealspacific.com/products/copy-of-ffalcon-50-50uf2-ultra-hd-hdr-smart-tv"
 pros: []
 cons: []
 excerpt: ""

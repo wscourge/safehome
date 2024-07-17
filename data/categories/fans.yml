@@ -3,4 +3,29 @@ name: Fans
 long_name: Fans
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Noise Level
+    type: float
+    unit: decibel
+  - name: Energy Efficiency
+    type: float
+    unit: watt
+  - name: Multiple Speed Options
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Smart Home Integration
+    type: boolean
+  - name: Airflow Rating
+    type: float
+    unit: cubic feet per minute
+  - name: Sleep Mode
+    type: boolean

@@ -3,4 +3,33 @@ name: Sensors
 long_name: Sensors
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Smart Home Compatibility
+    type: boolean
+  - name: Operating Range
+    type: float
+    unit: meter
+  - name: Coverage Area
+    type: float
+    unit: square meter
+  - name: Battery Life
+    type: float
+    unit: hour
+  - name: Hardwired
+    type: boolean
+  - name: Adjustable Sensitivity
+    type: boolean
+  - name: Real-Time Alerts
+    type: boolean
+  - name: Customizable Alerts
+    type: boolean
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Bluetooth
+    type: boolean

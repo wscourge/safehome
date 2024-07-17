@@ -3,4 +3,61 @@ name: Routers
 long_name: Routers
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Wireless Speed
+    type: float
+    unit: megabits per second
+  - name: Frequency
+    type: float
+    unit: hertz
+  - name: Coverage
+    type: float
+    unit: square meters
+  - name: Number of Ethernet Ports
+    type: number
+  - name: Number of USB Ports
+    type: number
+  - name: Processor Speed
+    type: float
+    unit: megahertz
+  - name: RAM
+    type: float
+    unit: megabyte
+  - name: Number of Bands
+    type: number
+  - name: Number of Channels
+    type: number
+  - name: Build-in Firewall
+    type: boolean
+  - name: Level of Encryption
+    type: single
+    values: 
+      - Low
+      - Medium 
+      - High
+  - name: Smart Home Integration
+    type: boolean
+  - name: Mobile App
+    type: boolean
+  - name: Latency
+    type: float
+    unit: millisecond
+  - name: Jitter
+    type: float
+    unit: millisecond
+  - name: Packet Loss
+    type: float
+    unit: percent
+  - name: Bandwidth
+    type: float
+    unit: megabits per second
+  - name: Throughput
+    type: float
+    unit: megabits per second
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  

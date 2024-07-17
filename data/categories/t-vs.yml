@@ -3,4 +3,62 @@ name: TVs
 long_name: AirPlay-Enabled TVs and Video Accessories
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: AirPlay Compatibility
+    type: boolean
+  - name: Streaming Services Availability
+    type: boolean
+  - name: Smart Home Integration
+    type: boolean
+  - name: Resolution
+    type: float
+    unit: pixel
+  - name: HDR Support
+    type: boolean
+  - name: Panel Type
+    type: single
+    values: 
+      - OLED
+      - QLED
+      - LED
+      - LCD
+  - name: Built-in Speakers
+    type: boolean
+  - name: Number of HDMI Ports
+    type: number 
+  - name: Number of USB Ports
+    type: number 
+  - name: Mobile App
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Processor Speed
+    type: float
+    unit: gigahertz
+  - name: Latency
+    type: float
+    unit: millisecond
+  - name: Refresh Rate
+    type: float
+    unit: Hertz
+  - name: Energy Usage
+    type: float
+    unit: watt
+  - name: Brightness
+    type: float
+    unit: Nit 
+  - name: Screen Mirroring
+    type: boolean
+  - name: Storage Capacity
+    type: float
+    unit: gigabyte

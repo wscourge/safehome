@@ -3,4 +3,43 @@ name: Humidifiers
 long_name: Humidifiers
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria:
+  - name: Smart Home Integration
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Coverage Area
+    type: float
+    unit: square meter
+  - name: Output Capacity
+    type: float
+    unit: liters per day
+  - name: Type
+    type: single
+    values:
+      - Ultrasonic
+      - Evaporative
+      - Warm Mist
+      - Cool Mist
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Built-in Hygrometer
+    type: boolean
+  - name: Adjustable Humidity Settings
+    type: boolean
+  - name: Noise Level
+    type: float
+    unit: decibel
+  - name: Fliter Replacement Cost
+    type: money
+  - name: Timer
+    type: boolean
+  - name: Essential Oil Diffuser
+    type: boolean
+  - name: Energy Efficiency
+    type: float
+    unit: watt
+  - name: Weight
+    type: float
+    unit: kilogram    

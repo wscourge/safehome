@@ -3,4 +3,44 @@ name: Windows
 long_name: Windows and Coverings
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria:
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Smart Home Integration
+    type: boolean
+  - name: Mobile App
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Scheduling
+    type: boolean
+  - name: Temperature Sensors
+    type: boolean
+  - name: Noise Level
+    type: float
+    unit: decibel
+  - name: Power Source
+    type: single
+    values:
+      - Battery
+      - Hardwired
+      - Solar-powered
+  - name: Material Options
+    type: single
+    values:
+      - Light Filtering Fabric
+      - Blackout Fabric
+      - Natural Wood
+      - Faux Wood
+      - Aluminum
+      - Vinyl
+      - Composite
+      - Polyester

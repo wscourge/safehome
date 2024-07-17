@@ -1,7 +1,7 @@
 category: outlets
 slug: gosund-smart-plug-wp-6
 name: Gosund Smart Plug WP6
-official_url: ""
+official_url: "https://us.gosund.com/products/gosund-smart-plug-wp6-4-pack"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.ebay.com/itm/196359768794"
 pros: []
 cons: []
 excerpt: ""

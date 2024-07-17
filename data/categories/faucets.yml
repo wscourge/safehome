@@ -3,4 +3,34 @@ name: Faucets
 long_name: Faucets
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Smart Home Integration
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Motion Sensors
+    type: boolean
+  - name: Temperature Control
+    type: boolean
+  - name: Water Flow Control
+    type: boolean
+  - name: Preset Modes
+    type: boolean
+  - name: Resistance to Corrosion and Tarnish
+    type: single
+    values:
+      - Low
+      - Medium
+      - High
+  - name: Eco-mode Setting
+    type: boolean
+  - name: Temperature Limiter
+    type: boolean
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram

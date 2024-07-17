@@ -1,0 +1,22 @@
+category: speakers
+slug: belkin-soundform™-connect-audio-adapter-with-air-play
+name: Belkin SOUNDFORM™ CONNECT Audio Adapter with AirPlay
+official_url: "https://www.belkin.com/audio-adapter-with-airplay-2/P-AUZ002.html"
+amazon:
+  url: "https://www.amazon.com/Belkin-SoundForm-Connect-AirPlay-Receiver-Streaming-3-5mm-Speaker-other-AirPlay-enabled/dp/B094LGLJB9"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: true
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

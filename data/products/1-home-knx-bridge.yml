@@ -1,10 +1,11 @@
-category: bridges
-slug: 1-home-knx-bridge
-name: 1Home KNX Bridge
-official_url: ""
+category: "bridges"
+brand: "1-home"
+slug: "1-home-knx-bridge"
+name: "1Home KNX Bridge"
+official_url: "https://www.1home.io/knx-smart-home"
 amazon:
-  url: ""
-  price: 0
+  url: "https://www.amazon.in/KNX-Bridge-System-Control-Automation/dp/B0BWTCGHXH"
+  price: 
   rating_average: 0
   rating_amount: 0
   best_seller_rank: 0

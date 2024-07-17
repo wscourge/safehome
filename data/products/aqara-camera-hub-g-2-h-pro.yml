@@ -3,7 +3,7 @@ slug: aqara-camera-hub-g-2-h-pro
 name: Aqara Camera Hub G2H Pro
 official_url: ""
 amazon:
-  url: ""
+  url: "https://www.amazon.com/Aqara-Security-HomeKit-Compatible-Assistant/dp/B09N6KDX5K"
   price: 0
   rating_average: 0
   rating_amount: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.amazon.de/dp/B09N6KDX5K?maas=maas_adg_1D35A0BD22808107A522AAD6F6426789_afap_abs&ref_=aa_maas&tag=maas"
 pros: []
 cons: []
 excerpt: ""

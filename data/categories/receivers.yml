@@ -3,4 +3,62 @@ name: Receivers
 long_name: AirPlay-Enabled Receivers
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria:
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Smart Home Integration
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Number of Inputs
+    type: number 
+  - name: Number of Outputs
+    type: number
+  - name: Types of Inputs
+    type: multiple
+    values:
+      - HDMI
+      - Analog Audio
+      - Digital Audio
+      - USB
+      - Ethernet port
+  - name: Types of Outputs
+    type: multiple
+    values:
+      - HDMI
+      - Analog Audio
+      - Digital Audio
+      - Pre-Outs
+      - Subwoofer
+      - Speaker
+  - name: Amplification Power
+    type: float
+    unit: watts per channel
+  - name: Total Harmonic Distortion (THD)
+    type: float
+    unit: percent
+  - name: Signal-to-Noise Ratio (SNR)
+    type: float
+    unit: decibel
+  - name: Dynamic Range
+    type: float
+    unit: decibel
+  - name: Frequency Response
+    type: float
+    unit: Hertz
+  - name: Digital-to-Analog Converter (DAC)
+    type: float
+    unit: Bits and Kilohertz
+  - name: Energy Usage
+    type: float
+    unit: watt
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram

@@ -3,4 +3,55 @@ name: Locks
 long_name: Locks
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Smart Home Integration
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Lock Type
+    type: single
+    values:
+      - Deadbolt
+      - Latch Bolt
+      - Lever
+  - name: Encryption Level
+    type: single
+    values:  
+      - Low
+      - Medium
+      - High
+  - name: Auto-Lock
+    type: boolean
+  - name: Tamper Alerts
+    type: boolean
+  - name: Access Methods
+    type: multiple
+    values:
+      - Keypad
+      - Biometrics
+      - App Control
+      - Traditional Key
+      - NFC
+  - name: Multiple Users
+    type: boolean
+  - name: Access Logs
+    type: boolean
+  - name: Weather Resistance
+    type: single
+    values:  
+      - Low
+      - Medium
+      - High
+  - name: Battery Life
+    type: float
+    unit: hour
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram

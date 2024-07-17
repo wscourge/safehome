@@ -1,0 +1,23 @@
+category: receivers
+slug: crestron-dm-nax™-4-zone-streaming-preamplifier
+name: Crestron DM NAX™ 4-Zone Streaming Preamplifier
+official_url: "https://www.crestron.com/Products/Audio/Multiroom-Audio/Multiroom-Audio-Systems/DM-NAX-4ZSP"
+amazon:
+  url: ""
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: true
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+other_url: "https://creationnetworks.net/products/crestron-dm-nax-4zsp-dm-nax%E2%84%A2-4-zone-streaming-preamplifier"
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

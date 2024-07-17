@@ -3,4 +3,31 @@ name: Outlets
 long_name: Outlets
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Smart Home Integration
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Energy Usage Reports
+    type: boolean
+  - name: Scheduling
+    type: boolean
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Maximum Wattage
+    type: float
+    unit: watt
+  - name: Overload Protection
+    type: boolean
+  - name: Child Safety
+    type: boolean

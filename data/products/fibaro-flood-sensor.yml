@@ -1,9 +1,9 @@
 category: sensors
 slug: fibaro-flood-sensor
 name: Fibaro Flood Sensor
-official_url: ""
+official_url: "https://www.fibaro.com/products/flood-sensor/"
 amazon:
-  url: ""
+  url: "https://www.amazon.com/FIBARO-Sensor-Detector-FGFS-101-ZW5/dp/B01H1M0SP6"
   price: 0
   rating_average: 0
   rating_amount: 0

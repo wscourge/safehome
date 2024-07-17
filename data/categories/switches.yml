@@ -3,4 +3,36 @@ name: Switches
 long_name: Switches
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Smart Home Integration
+    type: boolean
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Mobile App
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Neutral Wire Requirement
+    type: boolean
+  - name: Brightness Control
+    type: boolean
+  - name: Scheduling
+    type: boolean
+  - name: Multi-Way Switching
+    type: boolean
+  - name: UL Certification
+    type: boolean
+  - name: Overload Protection
+    type: boolean
+  - name: Child Lock
+    type: boolean
+  - name: Energy Usage Tracking
+    type: boolean

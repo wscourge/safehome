@@ -3,4 +3,44 @@ name: Sprinklers
 long_name: Sprinklers
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Smart Home Integration
+    type: boolean
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Mobile App
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Scheduling
+    type: boolean
+  - name: Weather-Based Adjustments
+    type: boolean
+  - name: Soil Moisture Sensors
+    type: boolean
+  - name: Number of Zones
+    type: Number
+  - name: Customizable Zones
+    type: boolean
+  - name: Alerts
+    type: boolean
+  - name: Weatherproof Level
+    type: single
+    values:
+      - Low
+      - Medium
+      - High
+  - name: Water Usage Reports
+    type: boolean
+  - name: EPA WaterSense Certification
+    type: boolean
+  - name: Coverage Area
+    type: float
+    unit: square meter
+  

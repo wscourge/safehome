@@ -3,4 +3,59 @@ name: Security
 long_name: Security Systems
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Motion Sensors
+    type: boolean
+  - name: Door/Window Sensors
+    type: boolean
+  - name: Glass Break Sensors
+    type: boolean
+  - name: Smoke and Carbon Monoxide Detectors
+    type: boolean
+  - name: Mobile App
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Real-Time Alerts
+    type: boolean
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: if includes cameras
+    type: boolean
+  - name: Video Resolution
+    type: float
+    unit: pixel
+  - name: Video Frame Rate
+    type: float
+    unit: frames per second
+  - name: Field of Vision
+    type: float
+    unit: degree
+  - name: Night Vision
+    type: boolean
+  - name: Storage Options
+    type: multiple
+    values:
+      - Local
+      - Cloud
+  - name: Compatibility with Smart Locks
+    type: boolean
+  - name: Compatibility with Smart Lighting
+    type: boolean  
+  - name: Range of Sensors
+    type: float
+    unit: meter
+  - name: Additional Fees
+    type: boolean
+  - name: Level of Encryption
+    type: single
+    values:
+      - Low
+      - Medium
+      - High
+  - name: Two-Factor Authentication
+    type: boolean

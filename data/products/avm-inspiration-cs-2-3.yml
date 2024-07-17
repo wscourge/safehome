@@ -1,7 +1,7 @@
 category: speakers
 slug: avm-inspiration-cs-2-3
 name: AVM Inspiration CS2.3
-official_url: ""
+official_url: "https://avm.audio/masterpiece/inspiration-cs-2-3/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://bloomaudio.com/products/avm-inspiration-cs-2-3"
 pros: []
 cons: []
 excerpt: ""

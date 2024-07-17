@@ -3,4 +3,32 @@ name: Garage Doors
 long_name: Garage Doors
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Smart Home Integration
+    type: boolean
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Alerts and Notifications
+    type: boolean
+  - name: Auto-Close
+    type: boolean
+  - name: Geofencing
+    type: boolean
+  - name: Noise Level
+    type: float
+    unit: decibel
+  - name: Speed of Opening and Closing
+    type: float
+    unit: centimeters per second
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram

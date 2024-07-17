@@ -1,7 +1,7 @@
 category: speakers
 slug: bowers-wilkins-formation-duo
 name: Bowers & Wilkins Formation Duo
-official_url: ""
+official_url: "https://www.bowerswilkins.com/en-us/product/gridversion-wireless-home-theatre/formation-duo/150187-new.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_site: "https://www.bhphotovideo.com/c/product/1504462-REG/bowers_wilkins_fp38296_formation_duo_wireless_streaming.html"
 pros: []
 cons: []
 excerpt: ""

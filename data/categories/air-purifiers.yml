@@ -1,6 +1,42 @@
 slug: air-purifiers
 name: Air Purifiers
 long_name: Air Purifiers
-excerpt: "Air Purifiers"
+excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Filtration Efficiency
+    type: float
+    unit: percent
+  - name: Clean Air Delivery Rate (CADR)
+    type: float
+    unit: cubic feet per minute
+  - name: Room Size Coverage
+    values:
+      - min: 10
+      - max: 400
+      - unit: m^2 
+  - name: Noise Levels
+    type: float
+    unit: decibels
+  - name: Energy Efficiency
+    type: float
+    unit: watt
+  - name: Maintenance Cost
+    type: money
+  - name: Filter Replacement Cost
+    type: money
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: Sleep Mode
+    type: boolean
+  - name: Air Quality Sensors
+    type: boolean
+  - name: Auto Mode
+    type: boolean
+  - name: Smart Connectivity
+    type: boolean
+  

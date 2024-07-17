@@ -1,7 +1,7 @@
 category: speakers
 slug: cabasse-the-pearl-keshi-2-1-system
 name: Cabasse THE PEARL KESHI 2.1 system
-official_url: ""
+official_url: "https://www.cabasse.com/the-pearl-keshi/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://upscaleaudio.com/products/cabasse-the-pearl-keshi-2-1-wireless-music-system"
 pros: []
 cons: []
 excerpt: ""

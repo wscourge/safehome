@@ -3,7 +3,7 @@ slug: carrier-cor-thermostat
 name: Carrier® Côr® Thermostat
 official_url: ""
 amazon:
-  url: ""
+  url: "https://www.amazon.com/Carrier-Programmable-Thermostat-Reports-21026670/dp/B01BMEGICG/ref=cm_cr_arp_d_product_top?ie=UTF8"
   price: 0
   rating_average: 0
   rating_amount: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.wink.com/products/carrierr-cortm-thermostat"
 pros: []
 cons: []
 excerpt: ""

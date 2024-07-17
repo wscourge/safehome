@@ -1,7 +1,7 @@
 category: locks
 slug: friday-duo
 name: Friday Duo
-official_url: ""
+official_url: "https://fridayhome.net/products/duo-smart-lock"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.proshop.pl/Inteligentny-dom/Friday-Lab-Smart-Lock-Shell-Bronze/2798054"
 pros: []
 cons: []
 excerpt: ""

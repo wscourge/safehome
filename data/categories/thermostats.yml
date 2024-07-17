@@ -3,4 +3,29 @@ name: Thermostats
 long_name: Thermostats
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram
+  - name: HVAC System Compatibility
+    type: boolean
+  - name: Smart Home Integration
+    type: boolean
+  - name: Mobile App
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Scheduling
+    type: boolean
+  - name: Energy Usage Reports
+    type: boolean
+  - name: Energy Usage
+    type: float
+    unit: watt
+  - name: Temperature Sensors
+    type: boolean
+  - name: Humidity Sensors
+    type: boolean

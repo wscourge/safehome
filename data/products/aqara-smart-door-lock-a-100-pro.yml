@@ -1,7 +1,7 @@
 category: locks
 slug: aqara-smart-door-lock-a-100-pro
 name: Aqara Smart Door Lock A100 Pro
-official_url: ""
+official_url: "https://www.aqara.com/en/product/smart-door-lock-a100-zigbee/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://homesmart.sg/product/aqara-a100-zigbee-smart-lock/"
 pros: []
 cons: []
 excerpt: ""

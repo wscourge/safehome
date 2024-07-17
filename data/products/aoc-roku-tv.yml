@@ -3,7 +3,7 @@ slug: aoc-roku-tv
 name: AOC Roku TV
 official_url: ""
 amazon:
-  url: ""
+  url: "https://www.amazon.com.br/SMART-AOC-ROKU-32S5195-78G/dp/B08487GGBX"
   price: 0
   rating_average: 0
   rating_amount: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.aoc.com.br/smart-tv-aoc-roku-tv-32-hd-serie-5135-32s5135-78g-pai/p"
 pros: []
 cons: []
 excerpt: ""

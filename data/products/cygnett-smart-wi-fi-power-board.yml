@@ -3,7 +3,7 @@ slug: cygnett-smart-wi-fi-power-board
 name: Cygnett Smart Wi-Fi Power Board
 official_url: ""
 amazon:
-  url: ""
+  url: "https://www.amazon.com.au/Cygnett-Home-Smart-4-Way-Powerboard/dp/B0914X7436"
   price: 0
   rating_average: 0
   rating_amount: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.domotic.com.au/product-page/cygnett-smart-wi-fi-powerboard-4-way-2xusb"
 pros: []
 cons: []
 excerpt: ""

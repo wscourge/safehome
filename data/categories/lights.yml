@@ -3,4 +3,42 @@ name: Lights
 long_name: Lights
 excerpt: ""
 description: ""
-comparison_criteria: []
+comparison_criteria: 
+  - name: Smart Home Integration
+    type: boolean
+  - name: App Control
+    type: boolean
+  - name: Voice Control
+    type: boolean
+  - name: Bulb Type
+    type: single
+    values: 
+      - LED
+      - CFL
+      - Incandescent
+  - name: Lumen Output
+    type: float
+    unit: lumen
+  - name: Dimming
+    type: boolean
+  - name: Adjustable Color Temperature
+    type: boolean
+  - name: Adjustable Color Options
+    type: boolean
+  - name: Energy Efficiency
+    type: float
+    unit: watt
+  - name: Scheduling
+    type: boolean
+  - name: Motion Detection
+    type: boolean
+  - name: Wi-Fi Connectivity
+    type: boolean
+  - name: Bluetooth
+    type: boolean
+  - name: Dimensions
+    type: string
+    unit: cm x cm x cm
+  - name: Weight
+    type: float
+    unit: kilogram  
