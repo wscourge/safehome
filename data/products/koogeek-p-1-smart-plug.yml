@@ -1,7 +1,7 @@
 category: outlets
 slug: koogeek-p-1-smart-plug
 name: Koogeek P1 Smart Plug
-official_url: ""
+official_url: "https://www.koogeek.com/smart-home-2418/p-p1.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://ishack.pl/produkty/smart-home/gniazda/koogeek-smart-plug/"
 pros: []
 cons: []
 excerpt: ""

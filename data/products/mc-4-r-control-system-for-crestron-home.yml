@@ -1,7 +1,7 @@
 category: bridges
 slug: mc-4-r-control-system-for-crestron-home
 name: MC4-R Control System for Crestron Home
-official_url: ""
+official_url: "https://www.crestron.com/Products/Control-Hardware-Software/Hardware/Control-Systems/MC4-R"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.mysoundconcepts.com/product/crestron-mc4-r-4-series-control-system-mc4-r-478575"
 pros: []
 cons: []
 excerpt: ""

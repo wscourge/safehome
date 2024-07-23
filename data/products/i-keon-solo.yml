@@ -1,7 +1,7 @@
 category: switches
 slug: i-keon-solo
 name: iKEON SOLO
-official_url: ""
+official_url: "https://ikeon.com.au/#!/details/light-switch/i"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.ozlighting.com.au/collections/ikeon/products/ikeon-i-series-smart-1-2-3-4-gang-light-switches-with-dimmer-voice-app-controlled?variant=39973589385302"
 pros: []
 cons: []
 excerpt: ""

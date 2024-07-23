@@ -1,7 +1,7 @@
 category: speakers
 slug: libratone-zipp-2
 name: Libratone ZIPP 2
-official_url: ""
+official_url: "https://www.libratone.com/us/products/speakers/zipp-2/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://libratone.shop/products/zipp-2"
 pros: []
 cons: []
 excerpt: ""

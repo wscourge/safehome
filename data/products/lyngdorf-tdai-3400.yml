@@ -1,7 +1,7 @@
 category: speakers
 slug: lyngdorf-tdai-3400
 name: Lyngdorf TDAI-3400
-official_url: ""
+official_url: "https://lyngdorf.steinwaylyngdorf.com/lyngdorf-tdai-3400"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://hifiheaven.net/product/lyngdorf-tdai-3400-2-ch-integrated-amp-audio-processor/"
 pros: []
 cons: []
 excerpt: ""

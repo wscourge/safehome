@@ -1,7 +1,7 @@
 category: outlets
 slug: i-series-duet
 name: i-Series DUET+
-official_url: ""
+official_url: "https://ikeon.com.au/#!/details/power-outlet/i"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.ozlighting.com.au/products/ikeon-i-series-duet-smart-double-powerpoint-with-without-switch-twin-socket-gpo"
 pros: []
 cons: []
 excerpt: ""

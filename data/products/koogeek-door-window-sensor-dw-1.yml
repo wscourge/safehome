@@ -1,7 +1,7 @@
 category: sensors
 slug: koogeek-door-window-sensor-dw-1
 name: Koogeek Door & Window Sensor DW1
-official_url: ""
+official_url: "https://www.koogeek.com/p-dw1.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://ishack.pl/produkty/smart-home/czujniki/koogeek-door-window-sensor-dw1/"
 pros: []
 cons: []
 excerpt: ""

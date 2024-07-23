@@ -1,7 +1,7 @@
 category: receivers
 slug: harman-kardon-citation-amp
 name: Harman Kardon Citation AMP
-official_url: ""
+official_url: "https://www.harmankardon.co.uk/wireless-speakers/CITATION+AMP-.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.av.com/Hi-Fi/Harman-Kardon-Citation-AMP/4I5O"
 pros: []
 cons: []
 excerpt: ""

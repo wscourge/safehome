@@ -1,7 +1,7 @@
 category: switches
 slug: koogeek-light-switch-2-gang
 name: Koogeek Light Switch (2‑Gang)
-official_url: ""
+official_url: "https://www.koogeek.com/p-kh02cn.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.walmart.com/ip/Koogeek-Two-Gang-Wi-Fi-Enabled-Smart-Light-Switch-Works-with-Apple-HomeKit-Support-Sir/893554748"
 pros: []
 cons: []
 excerpt: ""

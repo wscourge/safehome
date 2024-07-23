@@ -1,7 +1,7 @@
 category: receivers
 slug: marantz-av-10
 name: Marantz AV 10
-official_url: ""
+official_url: "https://www.marantz.com/en-us/product/av-10/300584.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://new-age-electronics.com/marantz-av10.html"
 pros: []
 cons: []
 excerpt: ""

@@ -1,7 +1,7 @@
 category: t-vs
 slug: in-focus-roku-tv
 name: InFocus Roku TV
-official_url: ""
+official_url: "https://infocustvs.com/classic-series/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.walmart.com/ip/InFocus-45-FHD-1080p-Roku-Smart-TV-Classic-Series-LED-IN-45A40PR/724918256"
 pros: []
 cons: []
 excerpt: ""

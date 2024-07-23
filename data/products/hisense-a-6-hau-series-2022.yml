@@ -1,7 +1,7 @@
 category: t-vs
 slug: hisense-a-6-hau-series-2022
 name: Hisense A6HAU Series (2022)
-official_url: ""
+official_url: "https://hisense.com.au/product/50-uhd-4k-tv-series-a6hau/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.jbhifi.com.au/products/hisense-58-a6hau-4k-uhd-led-smart-tv-2022"
 pros: []
 cons: []
 excerpt: ""

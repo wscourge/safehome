@@ -1,7 +1,7 @@
 category: speakers
 slug: harman-kardon-citation-100-mkii
 name: Harman Kardon Citation 100 MKII
-official_url: ""
+official_url: "https://www.harmankardon.co.uk/wireless-speakers/CITATION+100+MK2.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_site: "https://petertyson.co.uk/harman-kardon-citation-100-mkii-speaker"
 pros: []
 cons: []
 excerpt: ""

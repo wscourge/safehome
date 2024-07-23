@@ -1,7 +1,7 @@
 category: bridges
 slug: loxone-audioserver
 name: Loxone Audioserver
-official_url: ""
+official_url: "https://shop.loxone.com/enen/audioserver.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://s4home.pl/urzadzenia-wykonawcze/loxone-audioserver.html"
 pros: []
 cons: []
 excerpt: ""

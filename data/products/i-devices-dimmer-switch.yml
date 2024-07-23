@@ -1,7 +1,7 @@
 category: switches
 slug: i-devices-dimmer-switch
 name: iDevices Dimmer Switch
-official_url: ""
+official_url: "https://idevicesinc.com/media/dimmer-switch/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.walmart.com/ip/iDevices-IDEV0009-WiFi-Smart-Dimmer-Switch-Works-with-Alexa-HomeKit-Google-Home/264752688"
 pros: []
 cons: []
 excerpt: ""

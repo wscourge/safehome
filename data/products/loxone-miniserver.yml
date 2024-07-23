@@ -1,7 +1,7 @@
 category: bridges
 slug: loxone-miniserver
 name: Loxone Miniserver
-official_url: ""
+official_url: "https://shop.loxone.com/enen/miniserver.html"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://s4home.pl/procesory/loxone-miniserver.html?srsltid=AfmBOordbXbbERK7Vhl-ttrru9A2azqGfwGl8-lxu0XtIxT25VZdOeq4XHs"
 pros: []
 cons: []
 excerpt: ""
