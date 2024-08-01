@@ -1,9 +1,9 @@
 category: sensors
 slug: netatmo-smart-home-weather-station
 name: Netatmo Smart Home Weather Station
-official_url: ""
+official_url: "https://www.netatmo.com/smart-weather-station"
 amazon:
-  url: ""
+  url: "https://www.amazon.com/Netatmo-NWS01-Weather-Station/dp/B0095HVAKS"
   price: 0
   rating_average: 0
   rating_amount: 0

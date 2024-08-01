@@ -1,7 +1,7 @@
 category: t-vs
 slug: sanyo-roku-tv
 name: Sanyo Roku TV
-official_url: ""
+official_url: "https://www.roku.com/products/finder/roku-tv/sanyo"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.walmart.com/ip/SANYO-32-Class-2K-720P-Roku-Smart-LED-TV-FW32R19F/577238694"
 pros: []
 cons: []
 excerpt: ""

@@ -1,7 +1,7 @@
 category: bridges
 slug: ryse-smart-bridge
 name: RYSE Smart Bridge
-official_url: ""
+official_url: "https://www.helloryse.com/products/ryse-smartbridge"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://automatednow.com/ryse-smartbridge/"
 pros: []
 cons: []
 excerpt: ""

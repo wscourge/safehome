@@ -1,7 +1,7 @@
 category: receivers
 slug: moon-mi-nd-2
 name: MOON MiND 2
-official_url: ""
+official_url: "https://simaudio.com/en/product/mind2-network-player/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://listenup.com/products/moon-mind-2-network-player-1"
 pros: []
 cons: []
 excerpt: ""

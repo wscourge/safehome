@@ -1,7 +1,7 @@
 category: receivers
 slug: moon-390
 name: MOON 390
-official_url: ""
+official_url: "https://simaudio.com/en/product/390-network-player-preamplifier/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://audiovisionsf.com/products/moon-by-simaudio-390-preamplifier-and-streamer-b-stock-on-demonstration"
 pros: []
 cons: []
 excerpt: ""

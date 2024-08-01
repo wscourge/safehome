@@ -1,7 +1,7 @@
 category: receivers
 slug: moon-280-d
 name: MOON 280D
-official_url: ""
+official_url: "https://simaudio.com/en/product/280d-streaming-dac/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://audio-exchange.com/products/moon-280d-streaming-dac"
 pros: []
 cons: []
 excerpt: ""

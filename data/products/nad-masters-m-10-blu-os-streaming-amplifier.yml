@@ -1,7 +1,7 @@
 category: receivers
 slug: nad-masters-m-10-blu-os-streaming-amplifier
 name: NAD Masters M10 BluOS Streaming Amplifier
-official_url: ""
+official_url: "https://nadelectronics.com/product/m10-bluos-streaming-amplifier/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://theaudiofactory.com/products/nad-m10-bluos-streaming-amplifier"
 pros: []
 cons: []
 excerpt: ""

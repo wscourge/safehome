@@ -1,7 +1,7 @@
 category: receivers
 slug: nad-t-777-v-3-av-surround-sound-receiver
 name: NAD T777 V3 AV Surround Sound Receiver
-official_url: ""
+official_url: "https://nadelectronics.com/product/t-777-v3-av-surround-sound-receiver/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.dedicatedaudio.com/products/nad-t-777-av-surround-sound-receiver-v3"
 pros: []
 cons: []
 excerpt: ""

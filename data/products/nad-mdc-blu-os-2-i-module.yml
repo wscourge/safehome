@@ -1,7 +1,7 @@
 category: receivers
 slug: nad-mdc-blu-os-2-i-module
 name: NAD MDC BluOS 2i Module
-official_url: ""
+official_url: "https://nadelectronics.com/product/mdc-bluos-2i/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.crutchfield.com/p_745MDBLU2I/NAD-MDC-BluOS-2i.html"
 pros: []
 cons: []
 excerpt: ""

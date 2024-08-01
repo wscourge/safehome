@@ -1,7 +1,7 @@
 category: speakers
 slug: naim-nd-555
 name: Naim ND 555
-official_url: ""
+official_url: "https://www.naimaudio.com/products/nd-555"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://houseofstereo.com/products/naim-nd-555"
 pros: []
 cons: []
 excerpt: ""

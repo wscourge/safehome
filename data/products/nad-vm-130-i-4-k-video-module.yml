@@ -1,7 +1,7 @@
 category: receivers
 slug: nad-vm-130-i-4-k-video-module
 name: NAD VM130i 4K Video Module
-official_url: ""
+official_url: "https://nadelectronics.com/product/vm-130i-4k-video-module-with-airplay/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://hifiheaven.net/product/nad-mdc-vm-130i-uhd-4k-video-module/"
 pros: []
 cons: []
 excerpt: ""

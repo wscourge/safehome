@@ -1,7 +1,7 @@
 category: receivers
 slug: nad-vm-310-4-k-video-module
 name: NAD VM310 4K Video Module
-official_url: ""
+official_url: "https://nadelectronics.com/product/vm310-4k-video-module-with-airplay/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://hifiheaven.net/product/nad-mdc-vm-310-uhd-4k-video-module/"
 pros: []
 cons: []
 excerpt: ""

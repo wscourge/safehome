@@ -1,7 +1,7 @@
 category: bridges
 slug: myson-touch-2-hub
 name: Myson Touch 2 Hub
-official_url: ""
+official_url: "https://www.myson.co.uk/products/programmable-room-thermostats-touch-2.htm"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.cityplumbing.co.uk/p/myson-touch2-wifi-hub-only/p/445467"
 pros: []
 cons: []
 excerpt: ""

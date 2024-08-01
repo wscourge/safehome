@@ -1,7 +1,7 @@
 category: receivers
 slug: nad-mdc-2-blu-os-d-card
 name: NAD MDC2 BluOS-D Card
-official_url: ""
+official_url: "https://nadelectronics.com/product/mdc2-bluos-d/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://upscaleaudio.com/products/nad-mdc2-bluos-d-card"
 pros: []
 cons: []
 excerpt: ""

@@ -1,7 +1,7 @@
 category: receivers
 slug: primare-np-5-prisma-network-player
 name: Primare NP5 Prisma – network player
-official_url: ""
+official_url: "https://primare.net/product/np5-prisma-network-player/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://avcorp.pl/product-eng-4605-PRIMARE-NP5-Prisma-mk2-network-player-Black.html"
 pros: []
 cons: []
 excerpt: ""

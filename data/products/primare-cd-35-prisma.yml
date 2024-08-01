@@ -1,7 +1,7 @@
 category: receivers
 slug: primare-cd-35-prisma
 name: Primare CD35 Prisma
-official_url: ""
+official_url: "https://primare.net/product/cd35-prisma-cd-and-network-player/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.audioadvisor.com/pmcd35-blk"
 pros: []
 cons: []
 excerpt: ""
