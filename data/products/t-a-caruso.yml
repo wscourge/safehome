@@ -1,7 +1,7 @@
 category: speakers
 slug: t-a-caruso
 name: T+A Caruso
-official_url: ""
+official_url: "https://www.ta-hifi.de/en/audiosystems/caruso-series/caruso-2020-2/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://houseofstereo.com/products/t-a-caruso-multi-source-player"
 pros: []
 cons: []
 excerpt: ""

@@ -1,7 +1,7 @@
 category: receivers
 slug: t-a-caruso-r-multi-source-receiver
 name: T+A Caruso R Multi Source Receiver
-official_url: ""
+official_url: "https://www.ta-hifi.de/en/audiosystems/caruso-series/caruso-r/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://houseofstereo.com/products/ta-caruso-r"
 pros: []
 cons: []
 excerpt: ""
