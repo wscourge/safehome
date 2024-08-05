@@ -1,7 +1,7 @@
 category: bridges
 slug: yeelight-pro-gateway
 name: Yeelight Pro Gateway
-official_url: ""
+official_url: "https://en.yeelight.com/product/yeelight-pro-s20-gateway-ble-mesh/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.aliexpress.com/item/1005004562307887.html"
 pros: []
 cons: []
 excerpt: ""

@@ -1,7 +1,7 @@
 category: windows
 slug: xiaoyan-curtain-motor
 name: Xiaoyan Curtain Motor
-official_url: ""
+official_url: "https://www.xiaoyan.io/en-us/motor/"
 amazon:
   url: ""
   price: 0
@@ -16,6 +16,7 @@ integrations:
   open_hab: null
   home_assistant: null
   io_broker: null
+other_url: "https://www.aliexpress.com/item/1005004416042384.html"
 pros: []
 cons: []
 excerpt: ""
