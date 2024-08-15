@@ -1,0 +1,22 @@
+category: "lights"
+slug: "govee-rgbic-led-strip-lights"
+name: "Govee RGBIC LED Strip Lights"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Govee-Control-Segmented-Bluetooth-Changing/dp/B0991Q94KP/ref=sr_1_2?crid=2Z5R2234B3G79&dib=eyJ2IjoiMSJ9.nUvI8uwrryMZzdmuuhkhTqUU3eJoCKNfvpGgp7bbxwLc84rj1hOhNuEkht2svIMpwM9C1oRdWTvsCOh9ZOM-i4KGf71JBQAbeek1Iw9JsMhRokV9Lu19upo23Z1220_DZmcQLi-h2Vh1ZBRnSQyf4JnBGpE2dBirAM52HpPzGvpIiEMMy8Qi3pPRI84vDJnDHrkWVIc6w5yrNYXifYkY7m7jvU3giFouuPbLFzjbEenHYEaf7XdIUxiirNpgDuceD_dYBOZwshlctLmtU-iRf3JFFWmwauJzRFzeOsXMMhQ.NNJy-yB7XMWwXhwhhmelIfrg3LlJM3tZLjN2xCr1X7A&dib_tag=se&keywords=smart%2Bhome%2Blight&qid=1723729311&sprefix=smart%2Bhome%2Blight%2Caps%2C315&sr=8-2&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

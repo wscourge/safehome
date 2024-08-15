@@ -1,0 +1,22 @@
+category: "air-conditioners"
+slug: "whynter-inverter-portable-air-conditioner"
+name: "Whynter Inverter Portable Air Conditioner"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Whynter-ARC-1230WN-Inverter-Conditioner-Dehumidifier/dp/B09TP51PPH/ref=sr_1_7?crid=32G9XPZTKA3AD&dib=eyJ2IjoiMSJ9.elmeb674MK3ZME7sYKzTJ5o-QWojfkAvQPjAsTaigYwWXM6yiJKjh7SvB9ZH8mbS1vseP9bzQf-9H-R6r2ldMFKsyOlZGLPV608NHSCQu2Ihe2EkDg5I5XRtRKQn7gIO1EGPps5CLDZZ9R5oUdBb3uQGO5Y9QZ7bKxpforkeDaBb4O1pgUeCxqvT70AKYTAL50l3utTSZbifKuD4NLRJgw6btwdidNIkG7Hop3sNLqc.xuipM5quuxa6Fqsh6M1NcmI3sPM4XOrtzTO9mvWzRDU&dib_tag=se&keywords=smart%2Bhome%2Bair%2Bconditioner&qid=1723286594&sprefix=smart%2Bhome%2Bair%2Bcon%2Caps%2C268&sr=8-7&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

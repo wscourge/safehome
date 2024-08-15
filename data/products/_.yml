@@ -11,7 +11,7 @@ amazon:
   best_seller_category: ""
   comments: []
 integrations:
-  apple_home_kit: true
+  apple_home_kit: null
   google_home: null
   open_hab: null
   home_assistant: null

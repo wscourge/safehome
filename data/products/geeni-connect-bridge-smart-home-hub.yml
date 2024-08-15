@@ -1,0 +1,22 @@
+category: "bridges"
+slug: "geeni-connect-bridge-smart-home-hub"
+name: "Geeni Connect Bridge Smart Home Hub"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Geeni-Connect-Bridge-Smart-Home/dp/B0BS1QWLZF/ref=sr_1_13?crid=3BWOQP9LPUZE1&dib=eyJ2IjoiMSJ9.ozcpwD2KoyDh2yre2_o1oWXz_2JyClhRX6ZMAy8o8U0TTvQ_5XRwG4bU1CUFrSMjoJ1wpmWK5ctoJI42MnJxTXm92vzcrjZVhvu4Sn6e9t5Nj7ox2S5kkgvHQYF5cjNTO4kejwG_Z0td_9-klfHw7SPXcckkQijedS565LTP2cmXs90pawAo6JeS_lOyMRWqnoOxe-ORcvWMIQAbK8VIO9zDq8YlWBbel9IaoLGahZf_uPkBHLK9fzSmKw3rPAscaBhl-2fzy2JmDu1ThmQKgfrnE2Lz_kVOInfdWi4rwjQ.v0o5EzlTvwICCqdR55EoRpmP_G1jgevZQhiBnAR6eoA&dib_tag=se&keywords=smart+home+bridge&qid=1723288378&sprefix=smart+home+bridge%2Caps%2C350&sr=8-13"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

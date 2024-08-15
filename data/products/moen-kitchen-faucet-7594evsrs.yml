@@ -1,0 +1,22 @@
+category: "faucets"
+slug: "moen-kitchen-faucet-7594evsrs"
+name: "Moen Kitchen Faucet 7594EVSRS"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Moen-7594EVSRS-Touchless-Sprayer-Stainless/dp/B083XMC89X/ref=sr_1_7?crid=1NNRIULQYZXRF&dib=eyJ2IjoiMSJ9.dAbZXF86Lk25d2wTgTIoq9xoojTieGT26L8JorewINmwg-Hl3HtzAZzAHu7RwNwyeDuzgg-TKGQPC5RF-HTnTwPkteLOWrtdBGkJqGayAYrzenjZWhwukpNohQXUrXk9fINRAtarQEgaabFNiuHQLEi2CPzlcxOIuXiCLaFf3mr9RFw0phkLp6WJHah0fxHh8c6vmhKaImmeD07iaviilVCqU6FPyJH-XtZT8XlmUjTDkmgvFoVICCi0uMOlkzbu9uGLUI7EkLiYXWX0lv2p1PG0eXkG_S1JEwYp7icFo3U.Ed9JL6XiXqHRtr0HEFuxZ6_ph2I9VhWw6liGaeMULuc&dib_tag=se&keywords=smart%2Bhome%2Bfaucet&qid=1723717809&sprefix=smart%2Bhose%2Bfaucet%2Caps%2C670&sr=8-7&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

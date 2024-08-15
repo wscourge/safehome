@@ -1,0 +1,22 @@
+category: "cameras"
+slug: "blink-mini-2"
+name: "Blink Mini 2"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Blink-Mini-2-Camera-White/dp/B0BWWZXWPL/ref=sr_1_10?crid=2ULWAYAEQ2D93&dib=eyJ2IjoiMSJ9.C6alfDxCKdtMF1CcfglpHA90E4QiYemEEAjZVg18_qDOzIGNfmmZrnkQji0emKuR7JRgJxvYmwVnjEmhWcQJi-Yy5iiumqQZH1d6M8AkU7OQLU0JKVudQ-3CWih1pT54kQjpMRie2irn38fhS27Kzo1jRaoo37HbipIoCYsVu4B2vm0_cZ70WIn3NzyEv-inUgmuIgKcSvu6jgwnhJtEZOa60fn31Xhp-E_BFcCi3yE.iReXCbO037n2QTJJ-jmoD0egOZ_G_ros5naWcqC_fQI&dib_tag=se&keywords=smart+home+camera&qid=1723715807&sprefix=%2Caps%2C341&sr=8-10"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

@@ -1,0 +1,22 @@
+category: "fans"
+slug: "windmill-smart-air-circulator"
+name: "Windmill Smart Air Circulator"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Windmill-Amazon-Smart-Circulator-Remote/dp/B0CLC7XNDM/ref=sr_1_19?crid=1HM98V5UCCFT7&dib=eyJ2IjoiMSJ9.GPVn0DjKY8Zrs8_SLXkw052Bkf0oyGRqY-C2YYky3uowXaHhwy6TiKECVGlUzrTbDgUt_cTyIhGxdOjLUnhydRZoXCrSCoXTTG0pcvnjelInLEqerNMrqYIjQqFZyhPMJM0elfROtNNzxHlLe0NYDrhNJ5scZV40VVYVwpWR0smDEv3UIHGPI0luosdfC7Oe33-e0g7z8JIUNY-0VdzqgIiFpj1j3g1TzL6D2nVpDbTRknhmf1gzb21tr7TocIH_qT9x1LH9EIxsdVkEx_O9I-XP4RbbJtu252VnWUG-rfw.XYlc5MlHx98b3rjrq7-PVNu0sEkcQHSSfrdGwU5wTXY&dib_tag=se&keywords=smart%2Bhome%2Bfan&qid=1723717067&sprefix=smart%2Bhome%2Bf%2Caps%2C758&sr=8-19&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

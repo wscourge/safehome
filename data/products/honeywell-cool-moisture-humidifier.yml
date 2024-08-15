@@ -1,0 +1,22 @@
+category: "humidifiers"
+slug: "honeywell-cool-moisture-humidifier"
+name: "Honeywell Cool Moisture Humidifier"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Honeywell-Humidifier-Medium-Gallon-White/dp/B002QAYJPO/ref=sr_1_13?crid=2A43A3Z3FW2Y1&dib=eyJ2IjoiMSJ9.aYYZ3ONAzQrRJSjH39i2KPGLhwz22eXcupCp34x4wHacLCWDXqn71FdG7qXZkMvdqkkQgr8kHUaJRdTBAGZHefYeagjbvo0ew2tsKaqsEXP3kWn0rIMbUXm8axljtbqIhaIeL2EcEK-Jr_tz-N5Jw0GUO82JEV8SOKOGR-yqg6QJRee5CCPdGEbjIZ8Slp-iio2RsfPKfwzNoKzd1BorbzloITSosNUQvcilTaLXE9BIZSsIZQHP06y7HgivztfXBRFtFVAiFgy7VA9nDCCfh8bQ6yXz9RqrwMGupWZAhGw.lbnXvTfYbD-o3s7Ka4rjj91I7bIaCUkT3nGECgQd138&dib_tag=se&keywords=smart%2Bhome%2Bhumidifier&qid=1723728333&sprefix=smart%2Bhome%2Bhumidifier%2Caps%2C273&sr=8-13&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

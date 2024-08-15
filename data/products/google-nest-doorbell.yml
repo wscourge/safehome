@@ -1,0 +1,22 @@
+category: "doorbells"
+slug: "google-nest-doorbell"
+name: "Google Nest Doorbell"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Google-GWX3T-Nest-Doorbell-Battery/dp/B09GZQ1MHC/ref=sr_1_3?crid=Y6HZAX7OYTDH&dib=eyJ2IjoiMSJ9.FzjTxkYiVQQq7vwv5QeYAgkOyBqWx3ytWjxAZpnTaAp0MfPkCp1eodXmhxq67Bv_CVR0nIaGZ_vyxL7iASpBy7M2HtsBdxhnTocLb-u37mJ3BCMNSeKf2L0vjyh6ejUiOJ2PWClGyyHVIeAzOXbDYxdyR-Kqg66lv4RirXJle-JFSwz0OC3QObUYUcEPyfx_kC96_Lyc5u-xXwONxhc7_JU2nQbW1aPqGyFzxhTKNkqKSZDaKBlidFFoaq810QOHnngt1mK3_AFOnfn3g4kWw3SooXQBmUN18_lPwtY3bUg.Ej4RWuINzspXcmBGSNyoosPbqkbaoNt414CRBwU5dWQ&dib_tag=se&keywords=smart%2Bhome%2Bdoorbell&qid=1723716399&sprefix=smart%2Bhome%2Bdoorbell%2Caps%2C384&sr=8-3&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

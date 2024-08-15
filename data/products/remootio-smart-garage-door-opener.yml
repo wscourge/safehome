@@ -1,0 +1,22 @@
+category: "garage-doors"
+slug: "remootio-smart-garage-door-opener"
+name: "REMOOTIO Smart Garage Door Opener"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Remootio-Bluetooth-SmartThings-Shortcuts-Adapter/dp/B08F2V9KVD/ref=sr_1_31?crid=1S12R1BV76PW0&dib=eyJ2IjoiMSJ9.w1vmJDousdkoUXELKIKUdereoGESyXZ3-WsdDI8P5UoB91g5TAeNRIbIrqZNOOCCNkYmD1TNMP9ZrNVY8bh0LocfVcTBfXFb2FTVD8qLFJOe-bUGh13-AT997YBUnNLqg30RiPh5xO7O-08jsxfNQnTZDgjdl3iwo4ij3of0ElkaN1miRUqUDL6RM6P0KCy4eYnxuyj2dzgAh9CQX_RTwko6wXNY4wdvdN_l3EqGECN8j9N_i8-lTH84hwiuwAHiFINm8MysAZ4GPWkh9znvaoyul2FbaLWPBll_-fUzb3E.o4iEH4jw1QmdrRdd4C0ijBwCsOFqj0XOTxGtpw8-5Bk&dib_tag=se&keywords=smart+home+garage+door+opener&qid=1723721198&sprefix=smart+home+gara%2Caps%2C462&sr=8-31"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""
