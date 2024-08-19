@@ -1,0 +1,22 @@
+category: "t-vs"
+slug: "westinghouse-roku-tv"
+name: "Westinghouse Roku TV"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Westinghouse-Roku-Connectivity-Compatible-Assistant/dp/B0BZTB81QV/ref=sr_1_6?crid=3CUFD5TGBYYRS&dib=eyJ2IjoiMSJ9.zvWxmFWkeOu5nVAsmB5s9-rLWqN7deFdDhvOA5mUJIc_q7ZASmMMK0ooedRzfvzq-ep2tGOawsbq6UgHbEPPGcTmDCyjuVW4_LRal_X-HpRc6dvJ7WuxCWi8tg3PLhlXd9RZO0BEUQES4UDEyKZMMh2wtGXuIgh97vRt-xXW_Rks17wyWag_0owoF5HfwbGMSwaMj65Rz5J-K3IBsWwiYevObXcMUNFKvnuKaRwVN_s.8C3b91sep3ocemAbfL2bNRYtrEU22wS5LkVNdESVNPI&dib_tag=se&keywords=smart%2Bhome%2Btv&qid=1724085617&sprefix=smart%2Bhome%2Btv%2Caps%2C310&sr=8-6&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

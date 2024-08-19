@@ -1,0 +1,22 @@
+category: "routers"
+slug: "netgear-orbi-rbk752"
+name: "NETGEAR Orbi RBK752"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/NETGEAR-Whole-Tri-Band-System-RBK752/dp/B086HJXKJJ/ref=sr_1_13?crid=26FEVFIFQXN8Q&dib=eyJ2IjoiMSJ9.9Gj47GvQNSWzSMKR6iOj0K_2_2RYryvTTOC5_iVIgZmn67iBHkp89KrPZXLu3hbXQEL-KGJi_LzbIdyiygWWlrHze-cXiHmJDOri7QOOIOxDP-9napnx3E5Fl09Y7vYaOpB8pwahwcTXgRLPMjoSD0MeoRI5L34Gt-XZJrhPSzR7_qL0k-6VRlJgKusqvJ-5DSV5FWHD-_ffVeHlVROzs-EaifqAevRJ7ILgFvL4lBE.RDCAuBYq51Tfrx4MciM2b7jY_SqgqJZ22IB5VZw3wRA&dib_tag=se&keywords=smart%2Bhome%2Brouter&qid=1724069082&sprefix=smart%2Bhome%2Brouter%2Caps%2C240&sr=8-13&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

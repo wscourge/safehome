@@ -1,0 +1,22 @@
+category: "receivers"
+slug: "esinkin-wireless-audio-receiver"
+name: "esinkin Wireless Audio Receiver"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Esinkin-Wireless-receiver-Streaming-Speakers/dp/B07FZ3G7SC/ref=sr_1_2?crid=2DY2AXNAYIS2X&dib=eyJ2IjoiMSJ9.-_tn1Fhvpdod0nQNPcZMA94X9VKn_5LjQoQYZVx2cd2TDbjx_drBY6qLST-O1rfALi9qQObJsO1WiyNa-FZ4Ed-xxS8J7tXxHAGv1tdKqgUVtW1baNJLSY-k3PVPLGxNBCJsYokWSBQ0RDIMMU_9d-STgsEVJosiZiViex9rbvNgXtlguxBKU_LB6opEwQcE8-C_ef6caRC3m6G9CYcAQMxhKYk0uAxbblLJKzfkmTc.C6cBspNIG6hDIF3ipQvM0D768adc9evHapqx3WG9lGw&dib_tag=se&keywords=smart+home+receiver&qid=1724068844&sprefix=smart+home+receiver%2Caps%2C277&sr=8-2"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

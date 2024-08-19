@@ -1,0 +1,22 @@
+category: "security"
+slug: "simplisafe-security-system-gen-3"
+name: "SimpliSafe Security System Gen 3"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/SimpliSafe-Wireless-Security-System-Indoor/dp/B0CF6875SM/ref=sr_1_1_sspa?crid=R085CDGSFHTY&dib=eyJ2IjoiMSJ9.nqauLLBWkSiht3If8KMfvKe46Yf1xQXZMmr9a935OsXpUQvQBsnLxdRXj4Vyt37TxjQACgYXRPzB1cDXeqeLbbigGuFv7bUf6kr8tcagWwPw1KCvAI3Kcr7Obvu0uXDQjCBADFlOV85hmilGY64qMoja-wk1TamKqbTU3eH1znvLSvQfBDxqr9s8NpmAPnVMTk-ORKTzqwoXaRmqF2DOPtM_lnb-P88-8R8R7tAlYSM.faxqHEgzwsgWUPa8HG7_wX8kRXka_Ga7doccCJ8mjq0&dib_tag=se&keywords=smart%2Bhome%2Bsecurity%2Bsystem&qid=1724069864&sprefix=smart%2Bhome%2Bsecurity%2B%2Caps%2C274&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

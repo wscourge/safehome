@@ -1,0 +1,22 @@
+category: "thermostats"
+slug: "breez-plus"
+name: "Breez Plus"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Cielo-Breez-Conditioner-Controller-Temperature/dp/B07MPG1Y23/ref=sr_1_27?crid=2QK0ZI16W0SRU&dib=eyJ2IjoiMSJ9.LldmypXf_mSKmg847kJD74bDjPfDqc4MCUe9p6Pmi5kle_oJG9TfB3y_6aeiaxZBAz5F-AHcDDdwWvCPA3iV4iRp1EKu4g14vs3KE0mhAVO2QxfnQl2TVScjBohYQ1aJY_lNxAh__BQApZbzUt2JeWPTJVWVC79ubb7DYRqZq6bYz1yzC6sg_7PcHcVvGn96InoQIIHu_qm68aKufN3idMMBwaOYUU4wpm5061sXKpKTTKxHMbO9uUwYPILF_8E1QfvwwEFSlwphdXds9rURsgPC3kcqTekpIKCwzGYGhoE.tkQ2YdoS_TaOsIPgY9USiSuX6KeiKlqPCVvtv7uuJVw&dib_tag=se&keywords=smart+home+thermostat&qid=1724085961&sprefix=smart+home+thermo%2Caps%2C330&sr=8-27"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

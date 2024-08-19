@@ -1,0 +1,22 @@
+category: "outlets"
+slug: "kasa-smart-plug-power-strip-hs300"
+name: "Kasa Smart Plug Power Strip HS300"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Kasa-Smart-Power-Strip-TP-Link/dp/B07G95FFN3/ref=sr_1_9?crid=UI21KLOY6GWL&dib=eyJ2IjoiMSJ9.aw3YwrmX3XQG6YhxwwApWGZS31urnnnxWkM49Tvao7dlfRvz1VjTwgHDAUySTvfgBCoibbeHNwZw3NMKkCACyCF7r-woSEQQaF0kUk-VKUU6_xI9UI-JzvFcWs-Iv9Y2rUvEg_Kwe5aKIxJkvv9U6UHNW99Pi7_7GBLk7QMdBq8Nhj4JxqCTRiJgSCDC1ZEXuh9TAoR-tvo6B7DjzLud5ABX6eb96GGS7RYKVwUoD4PGd3YPZ4bmX_AbGucBoFYMUdlZMALqa6zWnPRwOLInTQOX5bp-crg9soeh860BZyE.PTwEnOv5M-E7DVXUN-nhuaOtjmTUvLbu-al1-QOYdWo&dib_tag=se&keywords=smart%2Bhome%2Boutlet&qid=1724067959&sprefix=smart%2Bhome%2Bout%2Caps%2C311&sr=8-9&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

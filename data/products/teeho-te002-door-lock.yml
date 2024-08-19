@@ -1,0 +1,22 @@
+category: "locks"
+slug: "teeho-te002-door-lock"
+name: "TEEHO TE002 Door Lock"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Fingerprint-Door-Lock-Combination-Installation/dp/B09T6929J6/ref=sr_1_5?crid=YVHERDJV43Q&dib=eyJ2IjoiMSJ9.KtyVRnqbYo2P0u7xiMGt9pvpkCKqJHO3jY6XUCupqPJNMwrk4dpKKg0XqpiKhzzUAwzaO9llAJf85XVyK0L9jzHulFFlipLGHV5oh912ZP4gpiON_5sJWk5xbzFs4RzfuvhJLilO525yYohz7EnQBTzPVsvj9GZRszCex-1d55zsRap1KjwAUBa4l3xEKu7wK07QgworwMrymzIEodPv9697tqZkzM5NxJ6mQXxTQiM6PGK_Ug7rQEJ2NJcsFAsgiC7uFoJCvbijV_l2-bnimZQ59epHV4lxCIn1QuYVS5A.qAzrHNSaczl7TSREHPSr3ZByIBfmUiDq4HXPjbD-lw8&dib_tag=se&keywords=smart%2Bhome%2Block&qid=1724067298&sprefix=smart%2Bhome%2Bloc%2Caps%2C255&sr=8-5&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

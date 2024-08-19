@@ -1,0 +1,22 @@
+category: "sensors"
+slug: "govee-wifi-water-sensor"
+name: "Govee WiFi Water Sensor"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Detector-Wireless-Notification-Security-Basement/dp/B07J9HZ5VN/ref=sr_1_5?crid=M4RWN9BC8B7X&dib=eyJ2IjoiMSJ9.tof99Yaj0Qj3YSBtsmCI3CSPyROSTxfNapMNAbyRB6jX1jtG2rkkbJJQBxCYKAG6dcKZJNYiIOc5TF9P5D2tK7KMp8DAzHag_KalYGC4IRRG63i0gEAYft7GZMWFizC5d5uwZqKw8H62WXzBX0NYQ3tKer6Bmv-hVSRHUrdnmiZn62TNvVB68b_9LxBPlC05_2knyG0Nu7JSSnTPBS7fkO_raY5VicS6f6ldzlNmjKHcYl7HhkT2hE7_ARjvpRcaqwacJ0osSOtIQdQyCMNFVR4Hq2oMJtW9TnPcLxPO7wQ.skdoUMZNYUlpq-cVUjGvBlyE17DJwx3FFhpmglRLHQc&dib_tag=se&keywords=smart%2Bhome%2Bsensor&qid=1724070697&sprefix=smart%2Bhome%2Bsensor%2Caps%2C360&sr=8-5&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

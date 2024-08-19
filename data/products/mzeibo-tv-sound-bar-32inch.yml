@@ -1,0 +1,22 @@
+category: "speakers"
+slug: "mzeibo-tv-sound-bar-32inch"
+name: "MZEIBO TV Sound Bar 32Inch"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/MZEIBO-Bluetooth-Detachable-Soundbars-Connection/dp/B0D3DHRJWW/ref=sr_1_3?crid=17EGB0QKNH5FR&dib=eyJ2IjoiMSJ9.sGFOQDtxuzolNB-WZgPtFKmOJzRYlm1LBY5TCftt9ZqdR7CWsMxtCx_3lzc6B__qyyVTwMT7g5sNj64q-iX79z5_BZPA5G4KeEOQ_Q80xBafqh8eKRDS4fpr_4QN3Xx-gVC9zk-TjnF33DlrzUWCRdFWW63g0QCj37E1aHXGHaSv7rUO2P4EXJJl9bapnsUkIPjBKPV-sNyEjiDsdC3V6vrXFOrTW6aQahf4NOyiJqA.WM991LWPoyQiX-XyGQf0u29fVGFEwxcN8OILKmNlnIs&dib_tag=se&keywords=smart%2Bhome%2Bspeaker&qid=1724084455&sprefix=smart%2Bhome%2Bspeak%2Caps%2C582&sr=8-3&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

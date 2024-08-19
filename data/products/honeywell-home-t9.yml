@@ -1,0 +1,22 @@
+category: "thermostats"
+slug: "honeywell-home-t9"
+name: "Honeywell Home T9"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Honeywell-Thermostat-Sensor-Touchscreen-Display/dp/B07N83WK9T/ref=sr_1_24_mod_primary_new?crid=2QK0ZI16W0SRU&dib=eyJ2IjoiMSJ9.LldmypXf_mSKmg847kJD74bDjPfDqc4MCUe9p6Pmi5kle_oJG9TfB3y_6aeiaxZBAz5F-AHcDDdwWvCPA3iV4iRp1EKu4g14vs3KE0mhAVO2QxfnQl2TVScjBohYQ1aJY_lNxAh__BQApZbzUt2JeWPTJVWVC79ubb7DYRqZq6bYz1yzC6sg_7PcHcVvGn96InoQIIHu_qm68aKufN3idMMBwaOYUU4wpm5061sXKpKTTKxHMbO9uUwYPILF_8E1QfvwwEFSlwphdXds9rURsgPC3kcqTekpIKCwzGYGhoE.tkQ2YdoS_TaOsIPgY9USiSuX6KeiKlqPCVvtv7uuJVw&dib_tag=se&keywords=smart%2Bhome%2Bthermostat&qid=1724085961&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=smart%2Bhome%2Bthermo%2Caps%2C330&sr=8-24&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""

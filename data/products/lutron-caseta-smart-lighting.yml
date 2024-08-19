@@ -1,0 +1,22 @@
+category: "switches"
+slug: "lutron-caseta-smart-lighting"
+name: "Lutron Caseta Smart Lighting"
+official_url: ""
+amazon:
+  url: "https://www.amazon.com/Lutron-P-PKG1WB-WH-Caseta-Wireless-Dimmer/dp/B07HM6L48C/ref=sr_1_18?crid=CQOO30NF1LE5&dib=eyJ2IjoiMSJ9.Kn3aULhY-SSxguacSvUEoJFCKgU-C3wgYdDEVA2eXz8Qf7rBHvXMOHe6avPoPebBIaBFnvTUuAEW4BOirgfdo3fpHbXYGR8Acj1oXJdo5v-otcsPUAWfplclM71UvbdMlvfVSU_Ms_LSeKAB0A1FQ_0SVzwkDOoZpZ94WfLHS0pA2Gso_8C5t_HXQP5uT7EIdI4RNhqw3iGCMP9L9QJjOKIgm0p7bd8GDecvA4u135Rnx3zu-99u7iitH-fuzdAhV8Sp7gSLNiQ1aN9vt16uLVRNtnZXX3UbHVfO2w-FIgE.WJRhmpO-vLdjeuTTo212wI-yj7_skK0kX-wEHSEMqfg&dib_tag=se&keywords=smart%2Bhome%2Bswitch&qid=1724085377&sprefix=smart%2Bhome%2Bswitc%2Caps%2C387&sr=8-18&th=1"
+  price: 0
+  rating_average: 0
+  rating_amount: 0
+  best_seller_rank: 0
+  best_seller_category: ""
+  comments: []
+integrations:
+  apple_home_kit: null
+  google_home: null
+  open_hab: null
+  home_assistant: null
+  io_broker: null
+pros: []
+cons: []
+excerpt: ""
+long_description: ""
